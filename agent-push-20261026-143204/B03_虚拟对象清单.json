@@ -1,0 +1,32 @@
+{
+  "requirement": "RND-49417",
+  "batch": "agent-push-20261026-143204",
+  "synthetic": true,
+  "records": [
+    {
+      "reference": "DEMO-001",
+      "label": "模拟对象01",
+      "email": "demo01@example.invalid"
+    },
+    {
+      "reference": "DEMO-002",
+      "label": "模拟对象02",
+      "email": "demo02@example.invalid"
+    },
+    {
+      "reference": "DEMO-003",
+      "label": "模拟对象03",
+      "email": "demo03@example.invalid"
+    },
+    {
+      "reference": "DEMO-004",
+      "label": "模拟对象04",
+      "email": "demo04@example.invalid"
+    },
+    {
+      "reference": "DEMO-005",
+      "label": "模拟对象05",
+      "email": "demo05@example.invalid"
+    }
+  ]
+}
