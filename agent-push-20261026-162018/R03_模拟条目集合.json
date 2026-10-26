@@ -1,0 +1,32 @@
+{
+  "requirement": "RND-49417",
+  "batch": "agent-push-20261026-162018",
+  "synthetic": true,
+  "items": [
+    {
+      "key": "SAMPLE-001",
+      "title": "模拟条目01",
+      "email": "sample01@example.invalid"
+    },
+    {
+      "key": "SAMPLE-002",
+      "title": "模拟条目02",
+      "email": "sample02@example.invalid"
+    },
+    {
+      "key": "SAMPLE-003",
+      "title": "模拟条目03",
+      "email": "sample03@example.invalid"
+    },
+    {
+      "key": "SAMPLE-004",
+      "title": "模拟条目04",
+      "email": "sample04@example.invalid"
+    },
+    {
+      "key": "SAMPLE-005",
+      "title": "模拟条目05",
+      "email": "sample05@example.invalid"
+    }
+  ]
+}
