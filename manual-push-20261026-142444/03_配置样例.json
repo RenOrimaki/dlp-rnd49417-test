@@ -1,0 +1,33 @@
+{
+  "requirement": "RND-49417",
+  "batch": "manual-push-20261026-142444",
+  "platform": "macOS",
+  "synthetic": true,
+  "records": [
+    {
+      "id": "TEST-001",
+      "name": "虚构测试对象01",
+      "email": "qa01@example.invalid"
+    },
+    {
+      "id": "TEST-002",
+      "name": "虚构测试对象02",
+      "email": "qa02@example.invalid"
+    },
+    {
+      "id": "TEST-003",
+      "name": "虚构测试对象03",
+      "email": "qa03@example.invalid"
+    },
+    {
+      "id": "TEST-004",
+      "name": "虚构测试对象04",
+      "email": "qa04@example.invalid"
+    },
+    {
+      "id": "TEST-005",
+      "name": "虚构测试对象05",
+      "email": "qa05@example.invalid"
+    }
+  ]
+}
